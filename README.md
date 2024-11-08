@@ -20,7 +20,7 @@ Here are some of the technologies and tools I work with:
 
 ## Projects
 
-### [Project 1](https://github.com/Akanksha-neural-networks/Data_Validation_API.git)
+### [DATA VALIDATION API](https://github.com/Akanksha-neural-networks/Data_Validation_API.git)
 This was a major project I did recently. We created an interface for the user where he/she can access, compare and
 gather data from different databases source like MySql, Snowflake and PostgreSQL. For the backend we used Nest.js and 
 Typescript. 
