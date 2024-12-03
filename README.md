@@ -31,8 +31,8 @@ who have a lot of issue when they have to compare and contrast things.
 
 Feel free to reach out if you want to collaborate on a project or just chat about technology!
 
-- 📧 Email: priyanshukumar.singh@example.com
-- 💼 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/priyanshu-singh-8127a7211?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- 📧 Email: spriyanshu993@gmail.com
+- 💼 LinkedIn: [Priyanshu Singh](https://www.linkedin.com/in/priyanshu-singh-8127a7211?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 
 Thanks for visiting my profile! Have a great day! 😊
